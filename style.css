@@ -72,3 +72,24 @@ button{
     color: black;
     background-color: purple;
 }
+#Contacter{
+    
+  text-align: center;
+}
+.formterry {
+    display: flex
+;
+    flex-direction: column;
+    #case{
+        height: 115px;
+    }
+}
+footer{
+    img{
+        width: 50px;
+    }
+    background-color: blueviolet;
+font-style: italic;
+text-align: center;
+
+}
