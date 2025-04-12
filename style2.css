@@ -1,0 +1,55 @@
+.SOMMES{
+    font-size: 28px;
+        text-align: center;
+}
+.presentation{
+    img{
+        width: 50%;
+    }
+
+align-items: anchor-center;
+background-color: darkblue;
+font-size: 30px;
+text-align: center;
+display: flex;
+}
+
+nav{
+    display: flex;
+
+    justify-content: space-between;
+    background-color: deepskyblue;
+    color: white;
+
+    img {
+        width: 70px;
+
+    }
+}
+#FABRICATION{
+    display: flex
+;
+    align-items: center;
+    font-size: 24px;
+    
+}
+#main{
+    text-align: center;
+   
+}
+
+.couleur{
+    background-color: lightblue;
+}
+#icone{
+    font-size: xx-large;
+    text-align: center;
+}
+footer{
+    img{
+    width: 70px;
+    }
+background-color: deepskyblue;
+text-align: center;
+font-size: 20px;
+}
